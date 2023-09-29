@@ -1,0 +1,888 @@
+{
+    "cabo": {
+        "destination": "Cabo San Lucas",
+        "slug": "cabo",
+        "lat": 22.992048320089534,
+        "lon": -109.76763037911653,
+        "courses": [
+            {
+                "name": "Cabo Real Golf Club",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/cabo-real-golf-club",
+                "telephone": "+52 624 173 9400",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "San Jos\u00e9 del Cabo",
+                    "addressRegion": "Baja California Sur",
+                    "streetAddress": "km 19. 5, M\u00e9xico 1, Zona del interior"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 22.992048320089534,
+                    "longitude": -109.76763037911653
+                },
+                "priceRange": "USD 120.00 to USD 225.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "8.0",
+                    "reviewCount": "30",
+                    "worstRating": "1",
+                    "bestRating": "10"
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685650781/gim/cabo-real/Cabo_Real_Hole_5-L_ev9xkw.jpg",
+                    "one": "https://res.cloudinary.com/droimgtqi/image/upload/v1685650784/gim/cabo-real/Cabo_Real_Hole_17_aqx1su.jpg",
+                    "two": "https://res.cloudinary.com/droimgtqi/image/upload/v1685650776/gim/cabo-real/Cabo_Real_14H_1116_0687-Edit-L_w99fgo.jpg",
+                    "three": "https://res.cloudinary.com/droimgtqi/image/upload/v1685650767/gim/cabo-real/Cabo_Real_13H_1116_0618-L_flv9qc.jpg",
+                    "four": "https://res.cloudinary.com/droimgtqi/image/upload/v1685650763/gim/cabo-real/Cabo_Real_07H_1116_0523-L_bl29dn.jpg",
+                    "five": "https://res.cloudinary.com/droimgtqi/image/upload/v1685650760/gim/cabo-real/Cabo_Real_05H_1116_0493-L_toupgb.jpg"
+                }
+            },
+            {
+                "name": "Solmar Golf Links",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/solmar-golf-links",
+                "telephone": "+52 624 689 0051",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Cabo San Lucas",
+                    "addressRegion": "Baja California Sur",
+                    "postalCode": "23473",
+                    "streetAddress": "Carretera a Todos Santos, Km 120"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 22.910993295503538,
+                    "longitude": -110.01091981253623
+                },
+                "priceRange": "USD 175.00 to USD 250.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "9.1",
+                    "reviewCount": "18",
+                    "worstRating": "1",
+                    "bestRating": "10"
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685651012/gim/solmar/14_tad3ul.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1685651060/gim/solmar/rsl-signature-hole_dgcqr4.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1685650954/gim/solmar/DJI_0474-Edit-Edit_zadj90.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1685650951/gim/solmar/DJI_0212-Edit_ksjt63.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1685650948/gim/solmar/DJI_0170-Edit_gentzi.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1685650945/gim/solmar/DJI_0066-Edit-Edit_izhgz6.jpg"
+                }
+            },
+            {
+                "name": "Palmilla Golf Club (Ocean-Arroyo)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/palmilla-golf-club-ocean-arroyo",
+                "telephone": "+52 624 144 5250",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "San Jos\u00e9 del Cabo",
+                    "postalCode": "23400",
+                    "streetAddress": "KM 7. 5 Carretara Transpeninsular Palmilla"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 23.01516513056242,
+                    "longitude": -109.72874203643798
+                },
+                "priceRange": "USD 221.00 to USD 250.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "7.3",
+                    "reviewCount": "6",
+                    "worstRating": "1",
+                    "bestRating": "10"
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685829042/gim/palmilla-ocean/ocean_hole04_fbbeg3.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829042/gim/palmilla-ocean/ocean_hole03_hbw2li.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1685828993/gim/palmilla-ocean/slide3_mu8xvh.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1685828993/gim/palmilla-ocean/slide2_qmmqgr.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1685828992/gim/palmilla-ocean/slide1_ksin0s.jpg"
+                }
+            },
+            {
+                "name": "Club Campestre San Jose",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/club-campestre-san-jose",
+                "telephone": " +52 624 172 6500 ",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "San Jos\u00e9 del Cabo",
+                    "addressRegion": "Baja California Sur",
+                    "streetAddress": "Lib. al Aeropuerto Km. 119, Campo de Golf Fonatur"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 23.04164221121552,
+                    "longitude": -109.7135469870925
+                },
+                "priceRange": "USD 150.00 to USD 190.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "8.7",
+                    "reviewCount": "7",
+                    "worstRating": "1",
+                    "bestRating": "10"
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685829188/gim/club-sanjose/Club_Campestre_15H_102916_0736-L_wmuerr.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829188/gim/club-sanjose/CCSJ_5-L_ieygyh.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829188/gim/club-sanjose/CCSJ_4-L_oetyvm.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829188/gim/club-sanjose/Club_Campestre_15H_102916_0736-L_wmuerr.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829187/gim/club-sanjose/CCSJ_1-L_w3vpeh.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829187/gim/club-sanjose/CCSJ_3-L_mmnbo9.jpg"
+                }
+            },
+            {
+                "name": "Palmilla Golf Club (Arroyo-Mountain)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/palmilla-golf-club-arroyo-mountain",
+                "telephone": "+52 624 144 5250",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "San Jos\u00e9 del Cabo",
+                    "streetAddress": "KM 7. 5 Carretara Transpeninsular Palmilla"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 23.018962958893,
+                    "longitude": -109.7350335325
+                },
+                "priceRange": "USD 353.00"
+                ,
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685829081/gim/palmilla-arroyo/arroyo_hole07_nz9gon.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829080/gim/palmilla-arroyo/slide1_jzyh3t.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829078/gim/palmilla-arroyo/slide3_qom9gg.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829074/gim/palmilla-arroyo/slide2_ualrlj.jpg"
+                }
+            },
+            {
+                "name": "Palmilla Golf Club (Mountain-Ocean)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/palmilla-golf-club-mountain-ocean",
+                "telephone": "+52 624 144 5250",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "San Jos\u00e9",
+                    "postalCode": "23400",
+                    "streetAddress": "KM 7. 5 Carretara Transpeninsular Palmilla"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 23.01796708610176,
+                    "longitude": -109.73202707192897
+                },
+                "priceRange": "USD 118.00 to USD 294.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "8.6",
+                    "reviewCount": "7",
+                    "worstRating": "1",
+                    "bestRating": "10"
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685829152/gim/palmilla-mountain/mountain_hole05_rj8cu3.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829152/gim/palmilla-mountain/mountain_hole01_mkiq5e.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829150/gim/palmilla-mountain/slide2_uagwif.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829149/gim/palmilla-mountain/slide1_mkv6lx.jpg"
+                }
+            },
+            {
+                "name": "The Course at Vidanta Los Cabos",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cabo/the-course-at-vidanta-los-cabos",
+                "telephone": "+52 624 163 4000",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "San Jos\u00e9 del Cabo",
+                    "addressRegion": "Baja California Sur",
+                    "postalCode": "23406",
+                    "streetAddress": "Finisterra 136, Campo de Golf Fonatur"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 23.048081962391482,
+                    "longitude": -109.70433795771598
+                },
+                "priceRange": "USD 118.00 to USD 294.00",
+
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1685829259/gim/vidanta/vidanta-golf-loscabos-gallery-1_sic7g4.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829259/gim/vidanta/vidanta-golf-loscabos-tournamentsoutings_fdvjxf.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829259/gim/vidanta/vidanta-golf-loscabos-gallery-3_gkmxw4.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1685829259/gim/vidanta/vidanta-golf-loscabos-gallery-4_spd5ne.jpg"
+                }
+            }
+        ]
+    },
+    "cancun": {
+        "destination": "Cancún",
+        "slug": "cancun",
+        "lat": 20.37525902115776,
+        "lon": -87.33951654285192,
+        "courses": [
+            {
+                "name": "PGA Riviera Maya (Championship Course)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/pga-riviera-maya-championship-course",
+                "telephone": "+52 98 4875 5048",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Akumal",
+                    "addressRegion": "Quintana Roo",
+                    "postalCode": "CP 77776",
+                    "streetAddress": "Carretera Chetumal Benito Juarez"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.37525902115776,
+                    "longitude": -87.33951654285192
+                },
+                "sameAs": "https://pgarivieramaya.com/en/18-hole-course/hole-1/",
+                "priceRange": "USD 214.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "9.8",
+                    "reviewCount": "4",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://pgarivieramaya.com/en/18-hole-course/hole-1/"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/pga-riviera/18-course-hole-18_gb68z4.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/pga-riviera/18-course-hole-4_hbhay5.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/pga-riviera/18-course-hole-8_weaoe3.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/pga-riviera/18-course-hole-15_t3xpid.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543278/gim/cancun/pga-riviera/18-course-hole-11_vgxec6.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543278/gim/cancun/pga-riviera/18-course-hole-1_s3n06i.jpg"
+                }
+            },
+            {
+                "name": "Iberostar Playa Para\u00edso Golf Club",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/iberostar-playa-paraiso-golf-club",
+                "telephone": "+52 984 877 2847",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Tulum",
+                    "streetAddress": "Carrer Chetumal, Carrer Canc\u00fan"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.765373219037148,
+                    "longitude": -86.97050062886476
+                },
+                "priceRange": "USD 179.00 to USD 249.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "8.0",
+                    "reviewCount": "3",
+                    "worstRating": "1",
+                    "bestRating": "10"
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543278/gim/cancun/iberostar-playa/Iberostar-Playa-Paraiso-1_idssoo.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/iberostar-playa/iberostar-golf-club-playa_lznlcv.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/iberostar-playa/iberostar-playa-paraiso-golf-club_126599_full_jh5awr.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/iberostar-playa/image_hvp3hh.avif",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/iberostar-playa/IBERO_GOLF_RMY_HI-8_ajy2le.jpg"
+                }
+            },
+            {
+                "name": "El Camale\u00f3n Mayakoba Golf Course",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/el-camaleon-mayakoba-golf-course",
+                "telephone": "+52 98 4206 4653",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Playa del Carmen",
+                    "postalCode": "77710",
+                    "streetAddress": "Km. 298, Solidaridad"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.690163993711,
+                    "longitude": -87.03098405152599
+                },
+                "sameAs": "https://mayakoba.com/el-camaleon-golf-course/",
+                "priceRange": "USD 329.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "7.6",
+                    "reviewCount": "16",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://mayakoba.com/el-camaleon-golf-course/"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543278/gim/cancun/el-camaleon/MYK_Mobile-Golf_cxgz4b.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543278/gim/cancun/el-camaleon/hero-el-camaleon_zd3djh.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543276/gim/cancun/el-camaleon/golf_carousel-10_vlmc3w.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543276/gim/cancun/el-camaleon/golf_carousel-05_dfff2i.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543275/gim/cancun/el-camaleon/elcamaleongolfcourse-hole15_qjxcpy.webp",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543275/gim/cancun/el-camaleon/golf_carousel-07_fmg0tr.jpg"
+                }
+            },
+            {
+                "name": "The Nicklaus Design Course at Vidanta Riviera Maya",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/the-nicklaus-design-course-at-vidanta-riviera-maya",
+                "telephone": "+52 984 206 4000",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Playa del Carmen",
+                    "addressRegion": "Quintana Roo",
+                    "postalCode": "77710",
+                    "streetAddress": "Carretera Federal Canc\u00fan"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.766514140219726,
+                    "longitude": -86.95618749136457
+                },
+                "sameAs": "https://www.vidanta.com",
+                "priceRange": "USD 172.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "10.0",
+                    "reviewCount": "1",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://www.vidanta.com"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/the-nicklaus/vidanta-golf-rivieramaya-nicklausdesign-gallery-2_jwcr3y.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/the-nicklaus/nicklaus-design-course_rd1yvy.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/the-nicklaus/vidanta-golf-puertopen%CC%83asco-holebyhole-8_j1mfcd.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/the-nicklaus/vidanta-golf-rivieramaya-nicklausdesignparthree_p9erod.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543281/gim/cancun/the-nicklaus/61769_kllkgg.webp",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543281/gim/cancun/the-nicklaus/vidanta-golf-rivieramaya-nicklausdesign-gallery-6_ly4kqw.jpg"
+                }
+            },
+            {
+                "name": "Riviera Cancun Golf & Resort",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/riviera-cancun-golf-resort",
+                "telephone": "+52 998 848 7777",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Canc\u00fan",
+                    "addressRegion": "Quintana Roo",
+                    "postalCode": "77500",
+                    "streetAddress": "Boulevard Kukulcan Km 25, Zona Hotelera"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 21.02677769652511,
+                    "longitude": -86.82432862420833
+                },
+                "priceRange": "USD 180.00 to USD 250.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/riviera-cancun-golf/rivweb7_zsn0sk.webp",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543281/gim/cancun/riviera-cancun-golf/034_ckrode.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/riviera-cancun-golf/b9546640-09d9-4eda-92b8-25954f690977_elkger.avif",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/riviera-cancun-golf/download_kc38me.webp",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543281/gim/cancun/riviera-cancun-golf/riviera-cancun-golf_zxy170.jpg"
+                }
+            },
+            {
+                "name": "Hard Rock Golf Club Riviera Maya",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/hard-rock-golf-club-riviera-maya",
+                "telephone": "+52 984 873 4990",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Playa del Carmen",
+                    "addressRegion": "Quintana Roo",
+                    "postalCode": "77717",
+                    "streetAddress": "Playacar"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.61194669379219,
+                    "longitude": -87.0871802624029
+                },
+                "sameAs": "https://www.hardrockhotels.com/riviera-maya/world-class-golf.aspx",
+                "priceRange": "USD 180.00 to USD 250.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "10.0",
+                    "reviewCount": "3",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://www.hardrockhotels.com/riviera-maya/world-class-golf.aspx"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/hard-rock-riviera/lago_yfgjmn.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/hard-rock-riviera/850x300-Hard-Rock-Golf-Club-Riviera-Maya-001_jbzncc.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/hard-rock-riviera/hard-rock-golf-club-riviera-maya-17-xl_lwwg7p.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/hard-rock-riviera/Hard-Rock-Riviera-Maya-18th-Hole_xf0pyb.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543277/gim/cancun/hard-rock-riviera/850x300-Hard-Rock-Golf-Club-Riviera-Maya-012_lwkqb4.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543276/gim/cancun/hard-rock-riviera/a1aab868216a083eac1e3a67968adc95_t573hd.jpg"
+                }
+            },
+            {
+                "name": "El Tinto Country Golf Club",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/el-tinto-country-golf-club",
+                "telephone": "+52 998 800 1072",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Canc\u00fan",
+                    "streetAddress": "Carretera Federal 307"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 21.005041755047664,
+                    "longitude": -86.87286715214228
+                },
+                "sameAs": "http://www.cancuncountryclub.com",
+                "priceRange": "MXN 2,753.00 to MXN 3,811.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/el-tinto-golf/web1_fa4027d1-09a1-4cec-99e5-635e3d7b1d2d_v1dxty.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543281/gim/cancun/el-tinto-golf/Tinto2-1030x686_whmq6t.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/el-tinto-golf/30214_1416399267.336_xfh65x.webp",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/el-tinto-golf/download_mwuwak.webp",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/el-tinto-golf/Tinto1-1030x686_rnzrmf.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/el-tinto-golf/web4_6c02b906-7660-475c-b993-e3839ee866ec_rvh0lm.jpg"
+                }
+            },
+            {
+                "name": "PGA Riviera Maya (Executive Course)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/pga-riviera-maya-executive-course",
+                "telephone": "+52 984 87 55 048",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Akumal",
+                    "addressRegion": "Quintana Roo",
+                    "postalCode": "CP 77776",
+                    "streetAddress": "Carretera Chetumal Benito Juarez"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.379241300901803,
+                    "longitude": -87.33417148869916
+                },
+                "sameAs": "https://pgarivieramaya.com/en/9-hole-course/hole-1/",
+                "priceRange": "MXN 1,059.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/pga-riviera-executive/f8c2d7a6afe42ad0bc8c5305a90c3e80-full_dlapd2.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/pga-riviera-executive/slider-3-m_mes2aq.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/pga-riviera-executive/riviera-maya-golf-club_sg3dna.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/pga-riviera-executive/web2_d3622893-b04e-4ee4-97e1-8d99350da2b0_qwyin2.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543280/gim/cancun/pga-riviera-executive/golf-riviera-maya_ubwblr.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543279/gim/cancun/pga-riviera-executive/14066_qzqogy.jpg"
+                }
+            },
+            {
+                "name": "Gran Coyote Golf Club",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/cancun/gran-coyote-golf-club",
+                "telephone": "+52 98 4109 6024",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Playa del Carmen",
+                    "postalCode": "77710",
+                    "streetAddress": "Carretera Federal Puerto Ju\u00e1rez"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.66334497221929,
+                    "longitude": -87.04540729522705
+                },
+                "sameAs": "https://www.grancoyotegolf.com/",
+                "priceRange": "MXN 4,870.00 to MXN 5,505.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686543283/gim/cancun/gran-coyote-golf/291884164_3208448252704746_1310080872642861841_n_xkyp9e.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/gran-coyote-golf/289996118_3197800107102894_1759698930633722165_n_gw57fu.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/gran-coyote-golf/p-grandcoral_55_660x440_201404231929_eevozc.webp",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543282/gim/cancun/gran-coyote-golf/download_wb7fpm.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543276/gim/cancun/gran-coyote-golf/526fe2_2656e3d5f320413cae6caf79a0c7c6a6_mv2_t8v2dk.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686543276/gim/cancun/gran-coyote-golf/5b2b611290d7a_kzrf6b.jpg"
+                }
+            }
+        ]
+    },
+    "puerto-vallarta": {
+        "destination": "Puerto Vallarta",
+        "slug": "puerto-vallarta",
+        "lat": 20.79487666559672,
+        "lon": -105.48357820214072,
+        "courses": [
+            {
+                "name": "Higuera Golf Club",
+                "currenciesAccepted": "MXN",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-vallarta/higuera-golf-club",
+                "telephone": "+52 329 298 4091",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Litibu",
+                    "addressRegion": "Nayarit",
+                    "postalCode": "63734",
+                    "streetAddress": "Carretera Punta de Mita Sayulita"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.79487666559672,
+                    "longitude": -105.48357820214072
+                },
+                "sameAs": "https://www.higueragolfclub.com/",
+                "priceRange": "MXN 4,500.00 to MXN 8,000.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/higuera-golf/higuera-golf-club-3_rahuod.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/higuera-golf/higuera-golf-club-5_cuehkd.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547586/gim/puerto-vallarta/higuera-golf/higuera-golf-club-2_cq8aw5.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547586/gim/puerto-vallarta/higuera-golf/higuera-golf-club-4_ukzdiz.jpg"
+                }
+            },
+            {
+                "name": "Marina Vallarta Golf Club",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-vallarta/marina-vallarta-golf-club",
+                "telephone": null,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Puerto Vallarta",
+                    "addressRegion": "Jalisco",
+                    "postalCode": "48325",
+                    "streetAddress": "Paseo De La Viena 430"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.664087767070825,
+                    "longitude": -105.25475830421783
+                },
+                "sameAs": "https://www.invitedclubs.com/clubs/marina-vallarta-club-de-golf",
+                "priceRange": "USD 82.00 to USD 199.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "10.0",
+                    "reviewCount": "2",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://www.invitedclubs.com/clubs/marina-vallarta-club-de-golf"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/marina-vallarta-golf/Club_de_Golf_Marina_Vallarta_hygsct.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/marina-vallarta-golf/86529_kjsb7u.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/marina-vallarta-golf/download_1_yvm7m1.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/marina-vallarta-golf/marina-vallarta_golf_hoyo-3-30-de-junio-2021_1920_1200_hq4inn.webp",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547586/gim/puerto-vallarta/marina-vallarta-golf/download_ajtdv4.jpg"
+                }
+            },
+            {
+                "name": "The Nayar Course at Vidanta Nuevo Vallarta",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-vallarta/the-nayar-course-at-vidanta-nuevo-vallarta",
+                "telephone": "+52 866 231 4423",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Nuevo Vallarta",
+                    "addressRegion": "Nayarit",
+                    "postalCode": "63735",
+                    "streetAddress": "Boulevard Riviera Nayarit 254"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.693052015135002,
+                    "longitude": -105.26574404857158
+                },
+                "sameAs": "https://www.vidanta.com",
+                "priceRange": "USD 244.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "9.0",
+                    "reviewCount": "1",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://www.vidanta.com"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-nayar-course/vidanta-golf-nuevovallarta-nicklaus-gallery-3_j7eltj.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-nayar-course/vidanta-golf-nuevovallarta-nicklaus-gallery-2_uj3cmz.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-nayar-course/vidanta-golf-nuevovallarta-nicklaus-gallery-5_iyap7y.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/the-nayar-course/61777_erpmfo.webp",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547587/gim/puerto-vallarta/the-nayar-course/vidanta-golf-nuevovallarta-nicklaus-gallery-1_qftrmh.jpg"
+                }
+            },
+            {
+                "name": "The Norman Signature Course at Vidanta Nuevo Vallarta",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-vallarta/the-norman-signature-course-at-vidanta-nuevo-vallarta",
+                "telephone": "+52 866 231 4423",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Nuevo Vallarta",
+                    "addressRegion": "Nayarit",
+                    "postalCode": "63735",
+                    "streetAddress": "Boulevard Riviera Nayarit 254"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.68203698027869,
+                    "longitude": -105.26631133577823
+                },
+                "sameAs": "https://www.vidanta.com",
+                "priceRange": "USD 225.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "10.0",
+                    "reviewCount": "1",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://www.vidanta.com"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686547590/gim/puerto-vallarta/the-norman-signature/2_ebs3bx.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-norman-signature/vidanta-golf-nuevovallarta-norman-gallery-3_duubeu.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-norman-signature/vidanta-golf-nuevovallarta-norman-gallery-4_oproms.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-norman-signature/vidanta-golf-nuevovallarta-norman-carousel_qefduj.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-norman-signature/vidanta-golf-nuevovallarta-norman-gallery-5_naaqdc.jpg",
+                    "five":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/the-norman-signature/vidanta-golf-nuevovallarta-norman-gallery-1_veoahv.jpg"
+                }
+            },
+            {
+                "name": "Vista Vallarta Club de Golf (Nicklaus Course)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-vallarta/vista-vallarta-club-de-golf-nicklaus-course",
+                "telephone": null,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Puerto Vallarta",
+                    "addressRegion": "Jalisco",
+                    "postalCode": "48290",
+                    "streetAddress": "Circuito Universidad 653, Colonia El Pitillal"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.684065318037646,
+                    "longitude": -105.18286743200677
+                },
+                "sameAs": "https://www.invitedclubs.com/clubs/vista-vallarta-club-de-golf/",
+                "priceRange": "USD 194.00 to USD 313.00",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "10.0",
+                    "reviewCount": "1",
+                    "worstRating": "1",
+                    "bestRating": "10",
+                    "itemReviewed": {
+                        "@type": "Thing",
+                        "sameAs": "https://www.invitedclubs.com/clubs/vista-vallarta-club-de-golf/"
+                    }
+                },
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686547589/gim/puerto-vallarta/vista-vallarta/201559133_4116100985139715_8684571953967735669_n_qzqtvt.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547589/gim/puerto-vallarta/vista-vallarta/27747980_1620014378081734_7928092929136091472_o_p9helj.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547589/gim/puerto-vallarta/vista-vallarta/22096191_1497857033630803_6608475295999769445_o_tdeunk.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547588/gim/puerto-vallarta/vista-vallarta/49005402_2012597652156736_7550086622675468288_n_jwjsb9.jpg"
+                }
+            },
+            {
+                "name": "Vista Vallarta Club de Golf (Weiskopf Course)",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-vallarta/vista-vallarta-club-de-golf-weiskopf-course",
+                "telephone": null,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Puerto Vallarta",
+                    "addressRegion": "Jalisco",
+                    "postalCode": "48290",
+                    "streetAddress": "Circuito Universidad 653, Colonia El Pitillal"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 20.686793070142773,
+                    "longitude": -105.19211892372735
+                },
+                "sameAs": "https://www.invitedclubs.com/clubs/vista-vallarta-club-de-golf",
+                "priceRange": "USD 199.00 to USD 269.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686547590/gim/puerto-vallarta/vista-vallarta-weiskopf/vista_vallarta_golf_club_nicklaus_course_cover_picture_qaifuc.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547589/gim/puerto-vallarta/vista-vallarta-weiskopf/dji_0088_z1cfn0.webp",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547589/gim/puerto-vallarta/vista-vallarta-weiskopf/vista_vallarta_golf_club_weiskopf_course_cover_picture_joat7g.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686547589/gim/puerto-vallarta/vista-vallarta-weiskopf/download_lni7pw.jpg"
+                }
+            }
+        ]
+    },
+    "acapulco": {
+        "destination": "Acapulco",
+        "slug": "acapulco",
+        "lat": 16.776467889722884,
+        "lon": -99.79187613300084,
+        "courses": [
+            {
+                "name": "The Course at Vidanta Acapulco",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/acapulco/the-course-at-vidanta-acapulco",
+                "telephone": "+53 866 231 4423 ",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Acapulco de Ju\u00e1rez",
+                    "addressRegion": "Guerrero",
+                    "postalCode": "39880",
+                    "streetAddress": "Avenida Costera de las Palmas Lote C1 Fraccionamiento, Playa Diamante"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 16.776467889722884,
+                    "longitude": -99.79187613300084
+                },
+                "priceRange": "USD 152.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686614581/gim/acapulco/vidanta-golf-acapulco-gallery-2_ifgyvv.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/acapulco/vidanta-acapulco-the-grand-mayan-gallery-2_tsr49z.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/acapulco/download_obdv5v.webp",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/acapulco/The-Course_zidi7t.jpg"
+                }
+            }
+        ]
+    },
+    "loreto": {
+        "destination": "Loreto",
+        "slug": "loreto",
+        "lat": 25.715206155032654,
+        "lon": -111.22854709625244,
+        "courses": [
+            {
+                "name": "TPC Danzante Bay",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/loreto/tpc-danzante-bay",
+                "telephone": "+1 800 790 4187",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Loreto",
+                    "addressRegion": "Baja California Sur",
+                    "postalCode": "23880",
+                    "streetAddress": "Km 84, Carretera Transpeninsular"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 25.715206155032654,
+                    "longitude": -111.22854709625244
+                },
+                "sameAs": "https://tpcdanzantebay.com/",
+                "priceRange": "USD 147.00 to USD 294.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686614581/gim/loreto/tpc-danzante-bay-club-de-golf-loreto-baja-california_c652zd.png",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614581/gim/loreto/home_getting_here_wh4pir.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614581/gim/loreto/home_course_rates_satdnh.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/loreto/download_wv221f.jpg"
+                }
+            }
+        ]
+    },
+    "puerto-penasco": {
+        "destination": "Puerto Peñasco",
+        "slug": "puerto-penasco",
+        "lat": 31.245584651185375,
+        "lon": -113.24739692679643,
+        "courses": [
+            {
+                "name": "The Nicklaus Design Course at Vidanta Puerto Pe\u00f1asco",
+                "currenciesAccepted": "USD",
+                "openingHours": "Mo-Su",
+                "url": "/courses/puerto-penasco/the-nicklaus-design-course-at-vidanta-puerto-penasco",
+                "telephone": "+52 638 383 0433",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Mexico",
+                    "addressLocality": "Puerto Pe\u00f1asco",
+                    "addressRegion": "Sonora",
+                    "postalCode": "83550",
+                    "streetAddress": "Km 424 Carretera Pe\u00f1asco Caborca A2, Ejido, Miramar"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": 31.245584651185375,
+                    "longitude": -113.24739692679643
+                },
+                "sameAs": "https://www.vidanta.com",
+                "priceRange": "USD 124.00",
+                "media": {
+                    "default": "https://res.cloudinary.com/droimgtqi/image/upload/v1686614581/gim/puerto-penasco/vidanta-golf-puertopen%CC%83asco-gallery-6_j5xeom.jpg",
+                    "one":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614581/gim/puerto-penasco/vidanta-golf-puertopen%CC%83asco-gallery-1_elpb6n.jpg",
+                    "two":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/puerto-penasco/vidanta-golf-puertopen%CC%83asco-courseoverview_kvzygv.jpg",
+                    "three":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/puerto-penasco/vidanta-golf-puertopen%CC%83asco-gallery-2_fr7u8w.jpg",
+                    "four":"https://res.cloudinary.com/droimgtqi/image/upload/v1686614580/gim/puerto-penasco/vidanta-golf-puertopen%CC%83asco-holebyhole-3_rgi6ey.jpg"
+                }
+            }
+        ]
+    }
+}
