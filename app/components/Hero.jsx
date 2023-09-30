@@ -12,8 +12,8 @@ const Hero = () => {
   const {width, breakpoint} = useContext(BreakpointContext);
 
   return (
-    <section className="bg-big mb-14">
-      <div className="flex flex-col sm:flex-row items-center py-10 px-20">
+    <section className="flex items-center w-full justify-center mb-14">
+      <div className="flex flex-col w-full max-w-7xl sm:flex-row items-center py-10 ">
         <div className="flex flex-col items-center justify-center md:justify-start lg:items-start w-full text-center lg:text-left">
           <h1 className="text-5xl font-medium mb-2 text-blue-700 leading-none xl:max-w-3xl">
             Book Your Golf Adventure <br /> in Cabo

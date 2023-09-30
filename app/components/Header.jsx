@@ -8,7 +8,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/solid';
 const Header = () => {  
 
   return (
-    <Popover className="container mx-auto px-10 sm:px-20 flex items-center py-2 h-24 box-border">
+    <header className='flex justify-center items-center'>
+      <Popover className="container max-w-7xl mx-auto px-10 sm:px-0 flex items-center py-2 h-24 box-border">
       <Link href="/">
         <img className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
   </Link>
@@ -62,6 +63,7 @@ const Header = () => {
         </Popover.Panel>
       </Transition>
     </Popover>
+    </header>
   );
 };
 

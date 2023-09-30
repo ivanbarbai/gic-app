@@ -8,7 +8,7 @@ const Course = ({thumbnail, priceRange, rate, name, slug}) => {
 
     return (
         <>
-            <Link href={slug} className="w-full m-3">
+            <Link href={slug} className="w-full m-4 last:mr-0 first:ml-0">
                 <div style={{ backgroundImage: `url(${thumbnail})` }} className='rounded-xl h-52 w-full bg-cover bg-no-repeat shadow-md shadow-slate-500'>
                     <div className='flex flex-col justify-center items-center p-4 w-full h-full rounded-xl from-slate-800 bg-gradient-to-t via-transparent'>
                         <div className="flex w-full h-full justify-end items-start">
