@@ -8,9 +8,9 @@ const Course = ({thumbnail, priceRange, rate, name, slug}) => {
 
     return (
         <>
-            <Link href={slug} className="m-5 max-w-xl w-full">
-                <div style={{ backgroundImage: `url(${thumbnail})` }} className='w-full rounded-xl h-56 w-56 bg-cover bg-no-repeat'>
-                    <div className='flex flex-col justify-center items-center p-4 w-full h-full rounded-xl from-green-500 bg-gradient-to-t via-transparent'>
+            <Link href={slug} className="w-full m-3">
+                <div style={{ backgroundImage: `url(${thumbnail})` }} className='rounded-xl h-52 w-full bg-cover bg-no-repeat shadow-md shadow-slate-500'>
+                    <div className='flex flex-col justify-center items-center p-4 w-full h-full rounded-xl from-slate-800 bg-gradient-to-t via-transparent'>
                         <div className="flex w-full h-full justify-end items-start">
                         </div>
                         <div className="flex w-full h-full flex-col justify-end items-start">

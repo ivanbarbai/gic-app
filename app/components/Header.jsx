@@ -14,10 +14,10 @@ const Header = () => {
   </Link>
       <div className='grow'>
         <div className="text-zinc-500  hidden sm:flex items-center justify-center gap-4 text-sm text-slate-800 md:gap-8">
-          <Link className='hover:text-green-500 duration-200 ease-in-out' href="/courses">Courses</Link>
-          <Link className='hover:text-green-500 duration-200 ease-in-out' href="/about">About us</Link>
-          <Link className='hover:text-green-500 duration-200 ease-in-out' href="/faqs">FAQs</Link>
-          <Link className='hover:text-green-500 duration-200 ease-in-out' href="/contact">Contact</Link>
+          <Link className='hover:text-green-400 duration-200 ease-in-out' href="/courses">Courses</Link>
+          <Link className='hover:text-green-400 duration-200 ease-in-out' href="/about">About us</Link>
+          <Link className='hover:text-green-400 duration-200 ease-in-out' href="/faqs">FAQs</Link>
+          <Link className='hover:text-green-400 duration-200 ease-in-out' href="/contact">Contact</Link>
         </div>
       </div>
       <div className="flex grow items-center justify-end sm:hidden">

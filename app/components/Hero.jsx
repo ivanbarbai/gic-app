@@ -14,7 +14,7 @@ const Hero = () => {
   return (
     <section className="bg-big mb-14">
       <div className="flex flex-col sm:flex-row items-center py-10 px-20">
-        <div className="flex flex-col items-center justify-center sm:justify-start sm:items-start w-full text-center sm:text-left">
+        <div className="flex flex-col items-center justify-center md:justify-start lg:items-start w-full text-center lg:text-left">
           <h1 className="text-5xl font-medium mb-2 text-blue-700 leading-none xl:max-w-3xl">
             Book Your Golf Adventure <br /> in Cabo
           </h1>
@@ -24,10 +24,10 @@ const Hero = () => {
           <button className="rounded-full mb-12 bg-green-500 text-white border-white border py-3 px-5 text-sm">
             Discover our courses
           </button>
-          <div className="flex items-center justify-center sm:items-start sm:justify-start mt-12 w-full">
+          <div className="flex items-center justify-center lg:items-start lg:justify-start mt-12 w-full">
             <div className="flex flex-col mr-6">
-              <div className="flex flex-col sm:flex-row items-center sm:items-start w-auto mb-8 mr-0 sm:mr-10">
-                <FlagIcon width={28} className="text-green-400 sm:mr-3 mr-0" />
+              <div className="flex flex-col lg:flex-row items-center lg:items-start w-auto mb-8 mr-0 lg:mr-10">
+                <FlagIcon width={28} className="text-green-400 lg:mr-3 mr-0" />
                 <div className="flex flex-col">
                   <span className="text-sm font-bold text-green-400">
                     7 Trusted
@@ -37,10 +37,10 @@ const Hero = () => {
                   </span>
                 </div>
               </div>
-              <div className="flex flex-col sm:flex-row items-center sm:items-start w-auto mb-8 mr-0 sm:mr-10">
+              <div className="flex flex-col lg:flex-row items-center lg:items-start w-auto mb-8 mr-0 lg:mr-10">
                 <CalendarDaysIcon
                   width={28}
-                  className="text-green-400 sm:mr-3 mr-0"
+                  className="text-green-400 lg:mr-3 mr-0"
                 />
                 <div className="flex flex-col">
                   <span className="text-sm font-bold text-green-400">
@@ -53,7 +53,7 @@ const Hero = () => {
               </div>
             </div>
             <div className="flex flex-col">
-              <div className="flex flex-col sm:flex-row items-center sm:items-start w-auto mb-8 mr-0 sm:mr-10">
+              <div className="flex flex-col lg:flex-row items-center lg:items-start w-auto mb-8 mr-0 lg:mr-10">
                 <StarIcon width={28} className="text-green-400 sm:mr-3 mr-0" />
                 <div className="flex flex-col">
                   <span className="text-sm font-bold text-green-400">
@@ -64,10 +64,10 @@ const Hero = () => {
                   </span>
                 </div>
               </div>
-              <div className="flex flex-col sm:flex-row items-center sm:items-start w-auto mb-8 mr-0 sm:mr-10">
+              <div className="flex flex-col lg:flex-row items-center lg:items-start w-auto mb-8 mr-0 lg:mr-10">
                 <BookOpenIcon
                   width={28}
-                  className="text-green-400 sm:mr-3 mr-0"
+                  className="text-green-400 lg:mr-3 mr-0"
                 />
                 <div className="flex flex-col">
                   <span className="text-sm font-bold text-green-400">
