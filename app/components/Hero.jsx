@@ -1,5 +1,6 @@
 "use client";
 import React, { useContext } from "react";
+import Image from 'next/image'
 import {
   FlagIcon,
   CalendarDaysIcon,
@@ -19,7 +20,7 @@ const Hero = () => {
             Book Your Golf Adventure <br /> in Cabo
           </h1>
           <h1 className="text-md mb-8 font-light text-slate-600 leading-none xl:max-w-3xl">
-            Cabo's Golfing Hotspots: Unveiling the Extravagance
+            Cabo&apos;s Golfing Hotspots: Unveiling the Extravagance
           </h1>
           <button className="rounded-full mb-12 bg-green-500 text-white border-white border py-3 px-5 text-sm">
             Discover our courses
@@ -83,7 +84,7 @@ const Hero = () => {
         </div>
         {width > breakpoint ? (
           <div className="flex items-center justify-center sm:justify-end w-full text-center">
-            <img
+            <Image
               className="max-w-[420px] rounded-lg"
               src="https://res.cloudinary.com/droimgtqi/image/upload/v1695878153/gic/golf-header_jquc1y.png"
               alt=""
