@@ -42,7 +42,7 @@ const Header = () => {
             <div className="px-5 pt-5 pb-6">
               <div className="flex items-center justify-between">
                 <Link href="/">
-                <img className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
+                <Image className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
                 </Link>
                 <div className="">
                   <Popover.Button className="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
