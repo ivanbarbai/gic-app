@@ -1,18 +1,16 @@
 'use client';
 import React from 'react'
-import Course from './Course'
+import Course from '../components/Course'
 import data from '../api/data.json'
-import axios from 'axios'
 
-const FeaturedCourses = () => {
+const Courses = () => {
     const courses = data.cabo.courses;
-    const featured = courses.slice(0, 3);
 
   return (
-    <section className='px-10 flex items-center w-full justify-center flex-col'>
-        <p className='text-green-400 mb-2 text-center font-semibold text-2xl'>Featured Courses</p>
+    <main>
+        <section className='px-10 flex items-center w-full justify-center flex-col'>
         <div className="box-border w-full flex flex-col sm:flex-row justify-center items-center max-w-7xl">
-        {featured.map((featured, index) => (
+        {courses.map((featured, index) => (
             <Course 
                 thumbnail={featured.media?.default}
                 rate={featured.aggregateRating?.ratingValue}
@@ -24,7 +22,8 @@ const FeaturedCourses = () => {
         ))}
         </div>
     </section>
+    </main>
   )
 }
 
-export default FeaturedCourses
+export default Courses
