@@ -12,7 +12,7 @@ const Header = () => {
     <header className='flex justify-center items-center'>
       <Popover className="container max-w-7xl mx-auto px-10 flex items-center py-2 h-24 box-border">
       <Link href="/">
-        <Image className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
+        <Image width={36} height={36} className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
   </Link>
       <div className='grow'>
         <div className="text-zinc-500  hidden sm:flex items-center justify-center gap-4 text-sm text-slate-800 md:gap-8">
@@ -42,7 +42,7 @@ const Header = () => {
             <div className="px-5 pt-5 pb-6">
               <div className="flex items-center justify-between">
                 <Link href="/">
-                <Image className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
+                <Image width={36} height={36} className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
                 </Link>
                 <div className="">
                   <Popover.Button className="inline-flex items-center justify-center rounded-md bg-white p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">

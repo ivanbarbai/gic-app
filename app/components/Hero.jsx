@@ -85,6 +85,8 @@ const Hero = () => {
         {width > breakpoint ? (
           <div className="flex items-center justify-center sm:justify-end w-full text-center">
             <Image
+              width={420}
+              height={100}
               className="max-w-[420px] rounded-lg"
               src="https://res.cloudinary.com/droimgtqi/image/upload/v1695878153/gic/golf-header_jquc1y.png"
               alt=""

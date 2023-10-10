@@ -1,5 +1,5 @@
 'use client';
-import { createContext } from "react";
+import { createContext, useEffect } from "react";
 import { useWidth } from "../hooks/useWidth";
 
 export const BreakpointContext = createContext();
