@@ -1,6 +1,7 @@
 "use client";
 import React, { Fragment } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { Popover, Transition } from '@headlessui/react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/solid';
 
@@ -11,7 +12,7 @@ const Header = () => {
     <header className='flex justify-center items-center'>
       <Popover className="container max-w-7xl mx-auto px-10 flex items-center py-2 h-24 box-border">
       <Link href="/">
-        <img className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
+        <Image className='max-w-[36px]' src="https://res.cloudinary.com/droimgtqi/image/upload/v1695887962/gic/Group_7_1_z2gvyw.png" alt="" />    
   </Link>
       <div className='grow'>
         <div className="text-zinc-500  hidden sm:flex items-center justify-center gap-4 text-sm text-slate-800 md:gap-8">
